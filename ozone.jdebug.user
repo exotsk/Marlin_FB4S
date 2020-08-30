@@ -1,0 +1,23 @@
+
+OpenDocument="mks_wifi.cpp", FilePath="/home/sergey/Projects/3D_Printer/FirmWare/Marlin/Marlin2.0/Marlin/src/module/mks_wifi/mks_wifi.cpp", Line=124
+OpenDocument="MarlinCore.cpp", FilePath="/home/sergey/Projects/3D_Printer/FirmWare/Marlin/Marlin2.0/Marlin/src/MarlinCore.cpp", Line=739
+OpenDocument="endstops.cpp", FilePath="/home/sergey/Projects/3D_Printer/FirmWare/Marlin/Marlin2.0/Marlin/src/module/endstops.cpp", Line=0
+OpenDocument="main.cpp", FilePath="/home/sergey/.platformio/packages/framework-arduinoststm32-maple/STM32F1/cores/maple/main.cpp", Line=14
+OpenDocument="power.cpp", FilePath="/home/sergey/Projects/3D_Printer/FirmWare/Marlin/Marlin2.0/Marlin/src/feature/power.cpp", Line=86
+OpenDocument="configuration_store.h", FilePath="/home/sergey/Projects/3D_Printer/FirmWare/Marlin/Marlin2.0/Marlin/src/module/configuration_store.h", Line=51
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Call Stack", DockArea=RIGHT, x=0, y=0, w=440, h=525, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=0, w=440, h=525, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=382, h=525, FilterBarShown=1, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Disassembly", DockArea=LEFT, x=0, y=0, w=382, h=525, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=499, h=218, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x20000520
+OpenWindow="Watched Data 1", DockArea=BOTTOM, x=2, y=0, w=418, h=218, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=382, h=525, FilterBarShown=1, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Terminal", DockArea=BOTTOM, x=0, y=0, w=609, h=218, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[232;195;259]
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Class";"Source"], ColWidths=[213;69;48;57;27;100]
+TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[147;59;48;57;1029]
+TableHeader="Call Stack", SortCol="Function", SortOrder="ASCENDING", VisibleCols=["Function";"Stack Frame";"Source";"PC";"Return Address";"Stack Used"], ColWidths=[312;126;88;82;156;100]
+TableHeader="Power Sampling", SortCol="Index", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh";"Access"], ColWidths=[100;100;100;100;100]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
