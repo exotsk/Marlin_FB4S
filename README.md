@@ -2,8 +2,6 @@
 
 Это конфигурация [официального Marlin](https://github.com/MarlinFirmware/Marlin) для принтера Flying Bear 4S.
 
- Изменения кода коснулись только в части добавления работы с экраном. Код работы с экраном взят из репозитория [inib/Marlin](https://github.com/inib/Marlin)
-
  На данной версии **не работает WIFI модуль**. Вариант работы с WIFI находится в ветке [FB4S_WIFI](https://github.com/Sergey1560/Marlin_FB4S/tree/FB4S_WIFI)
 
 ## Как скомпилировать прошивку
